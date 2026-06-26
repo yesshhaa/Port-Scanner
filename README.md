@@ -45,7 +45,7 @@ python scanner.py localhost
 
 ---
 
-## 🛠️ Usage
+##  Usage
 
 ```bash
 # scan common ports (default)
@@ -77,7 +77,7 @@ python scanner.py <target> -o ./reports
 
 ---
 
-## 📸 Sample Output
+##  Sample Output
 
 ```
 ╔══════════════════════════════════════════╗
