@@ -116,8 +116,7 @@ port-scanner/
 ├── scanner.py        # core async scanner + CLI entrypoint
 ├── services.py       # port → service name, risk level, CVE hints
 ├── report.py         # JSON/CSV export + MITRE ATT&CK report
-├── requirements.txt  # rich (optional)
-└── outputs/          # scan results saved here (gitignored)
+└── requirements.txt  # rich (optional)
 ```
 
 ---
