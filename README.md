@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 ![MITRE](https://img.shields.io/badge/MITRE-T1046-red?style=flat)
-
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)
 
 ---
 
